@@ -94,10 +94,10 @@ REST_KNOX = {
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "habot_employee_db",
-        "USER": "root",
-        'PASSWORD': '123456789pB@',
-        'HOST': 'localhost',
+        "NAME": "your_databse",
+        "USER": "your_user",
+        'PASSWORD': 'your_password',
+        'HOST': 'your_db_host',
         'PORT': '3306'
     }
 
